@@ -1,0 +1,11 @@
+name,email,age,source,website_visit,whatsapp_reply,service_interest,budget
+Rahul,rahul@gmail.com,28,Google,yes,yes,high,high
+Priya,priya@gmail.com,35,Instagram,yes,yes,high,medium
+Arun,arun@gmail.com,42,Facebook,yes,no,medium,medium
+Divya,divya@gmail.com,25,Instagram,no,yes,medium,low
+Karthik,karthik@gmail.com,31,Google,yes,yes,high,high
+Sneha,sneha@gmail.com,29,Facebook,no,no,low,low
+Vijay,vijay@gmail.com,45,Google,yes,no,high,high
+Anjali,anjali@gmail.com,33,Instagram,yes,yes,medium,medium
+Suresh,suresh@gmail.com,39,Facebook,no,yes,low,medium
+Meena,meena@gmail.com,27,Google,yes,yes,medium,high
